@@ -5,7 +5,8 @@ if userInput == 'A':
      print("hi")
 
 elif userInput == 'B':
-# Student 2 finishes this code 
+print ("you are heading into empty space")
+
 
 else: 
      print("You entered something wrong - refresh and try again!")
