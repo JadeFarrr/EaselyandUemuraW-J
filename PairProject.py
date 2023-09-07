@@ -2,7 +2,7 @@ print("You are off on your space mission! You've just taken off and left the Ear
 userInput = input("Enter A or B. A) Head towards Mars B) Head into empty space")
 
 if userInput == 'A':
-     print("hi")
+     print("We're going to Mars!")
 
 elif userInput == 'B':
 print ("you are heading into empty space")
